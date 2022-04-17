@@ -1,4 +1,4 @@
-# Fashion-MNIST classification (CNN) with 94% accuracy
+# Fashion-MNIST classification (CNN) with 94% accuracy 
 
 **I would like to share my results (94.15% accuracy on average) on the fashion-MNIST dataset. You can find further informations about the dataset on [kaggle](https://www.kaggle.com/).** 
 
@@ -27,3 +27,4 @@
 
 > **Highly appreciate your questions or feedback related to this notebook **
 
+NoteBook Link: [Kaggle](https://www.kaggle.com/sharifashik/fashion-mnist-classification-cnn-with-94-acc) | [Colab](https://colab.research.google.com/drive/1MoPad_IBEEty76v_6XPhCi39-8uGn0F5?usp=sharing)
