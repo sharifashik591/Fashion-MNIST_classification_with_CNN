@@ -12,7 +12,6 @@
 - It shares the same image size and structure of training and testing splits.
 
 ## CNN Model Summary
-
 ![model](https://user-images.githubusercontent.com/44643948/163711061-69b2cd15-5e36-4ebb-b1d4-c262ca714843.png)
 
 
@@ -25,4 +24,6 @@
 ## Classification Report
 ![image](https://user-images.githubusercontent.com/44643948/163711171-a2fad290-ab5f-47a4-a4c5-aeb1198a18a4.png)
 
-> Highly appreciate your questions or feedback related to this notebook 
+
+> **Highly appreciate your questions or feedback related to this notebook **
+
