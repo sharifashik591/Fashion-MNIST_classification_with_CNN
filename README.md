@@ -11,5 +11,18 @@
 
 - It shares the same image size and structure of training and testing splits.
 
-![image](https://user-images.githubusercontent.com/44643948/163711016-6ae0b114-fc83-43b9-9cff-2d27d079dc2a.png)
+## CNN Model Summary
 
+![model](https://user-images.githubusercontent.com/44643948/163711061-69b2cd15-5e36-4ebb-b1d4-c262ca714843.png)
+
+
+## Result
+![Predction](https://user-images.githubusercontent.com/44643948/163711109-23df6599-4a09-426c-8f5a-91929a64e53f.png)
+
+## Confusion matrix
+![image](https://user-images.githubusercontent.com/44643948/163711145-461f73ff-4fa2-4c73-94d2-220b6c7ff238.png)
+
+## Classification Report
+![image](https://user-images.githubusercontent.com/44643948/163711171-a2fad290-ab5f-47a4-a4c5-aeb1198a18a4.png)
+
+> Highly appreciate your questions or feedback related to this notebook 
